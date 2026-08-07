@@ -1,6 +1,6 @@
 # Determinants of Income Inequality Across Spanish Cities
 
-MSc Economics thesis project, University of Valencia. Panel-data analysis of what drives income inequality across Spanish municipalities — combining a Python data pipeline with Stata econometrics (fixed effects, instrumental variables, and dynamic panel GMM).
+MSc Economics thesis project, University of Valencia. Panel-data analysis of what drives income inequality across Spanish municipalities combining a Python data pipeline with Stata econometrics (fixed effects, instrumental variables, and dynamic panel GMM).
 
 ## Motivation
 
